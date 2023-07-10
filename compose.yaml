@@ -1,5 +1,7 @@
 name: react-rust-postgres
+
 services:
+
   frontend:
     build:
       context: frontend
